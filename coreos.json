@@ -18,7 +18,7 @@
       "http_directory": ".",
 
       "ssh_username": "core",
-      "ssh_key_path": "keys/vagrant",
+      "ssh_private_key_file": "keys/vagrant",
 
       "boot_wait": "15s",
       "boot_command": [
